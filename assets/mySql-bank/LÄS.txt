@@ -1,0 +1,2 @@
+Hej!
+Du kommerinte behöva använda alla, eftersom jag utgick från ditt bank-exempel. tog bara bort vissa kolumner från "transactions".
